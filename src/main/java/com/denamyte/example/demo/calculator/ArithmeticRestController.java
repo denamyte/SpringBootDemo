@@ -1,4 +1,4 @@
-package com.denamyte.example.demo.todo.calculator;
+package com.denamyte.example.demo.calculator;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

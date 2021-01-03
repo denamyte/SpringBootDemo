@@ -1,4 +1,4 @@
-package com.denamyte.example.demo.bot;
+package com.denamyte.example.demo.controllers.bot;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

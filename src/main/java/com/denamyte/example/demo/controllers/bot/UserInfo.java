@@ -1,4 +1,4 @@
-package com.denamyte.example.demo.bot;
+package com.denamyte.example.demo.controllers.bot;
 
 import lombok.Data;
 

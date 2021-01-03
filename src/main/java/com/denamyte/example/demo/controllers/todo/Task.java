@@ -1,4 +1,4 @@
-package com.denamyte.example.demo.todo;
+package com.denamyte.example.demo.controllers.todo;
 
 import lombok.Data;
 

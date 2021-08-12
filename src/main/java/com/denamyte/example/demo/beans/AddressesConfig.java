@@ -46,7 +46,7 @@ public class AddressesConfig {
 
     @Bean
     public Customer temporary(@Qualifier("yellowCustomer") Customer customer) {
-        System.out.println(customer);
+//        System.out.println(customer);
         return customer;
     }
 }

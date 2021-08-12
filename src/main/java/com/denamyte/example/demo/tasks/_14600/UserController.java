@@ -1,4 +1,4 @@
-package com.denamyte.example.demo.controllers.tasks._14600;
+package com.denamyte.example.demo.tasks._14600;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
